@@ -14,8 +14,8 @@
     - lit les exigences fonctionnelles et rédige les exigences techniques et éventuellement les problématiques fonctionnelles détaillées.
 
  ## 3. Le cycle en cascade (ou en V)
- On part d'un besoin pour arriver au produit final (en passant par des spécuf, conception, implémentation, test) 
- *->historique, type de cycle apparu dans les années 70. le besoin peut changer entre le besoin initial et la réception du produit fini*. 
+ On part d'un besoin pour arriver au produit final (en passant par des spécuf, conception, implémentation, test)  
+ >historique, type de cycle apparu dans les années 70. le besoin peut changer entre le besoin initial et la réception du produit fini. 
 
  ## 4. Développement incrémental vs itératif
  - **Itératif**
